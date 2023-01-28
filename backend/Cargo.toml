@@ -14,3 +14,4 @@ futures = "0.3.24"
 thiserror = "1.0.38"
 warp = "0.3.3"
 sqlx = {version = "0.6.2", features = ["runtime-tokio-rustls","postgress"]}
+sqlb = "0.0.8"
