@@ -1,0 +1,7 @@
+{
+    "name":MVPRust-ui,
+    "version": 1.0.0,
+    "type": "module",
+    "description": "MVP Rust UI",
+    "main": "index.js",
+}
