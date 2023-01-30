@@ -1,3 +1,7 @@
+mode model;
+mode security;
+mode web;
+
 fn main() {
-    println!("Hello, world!");
+    
 }
